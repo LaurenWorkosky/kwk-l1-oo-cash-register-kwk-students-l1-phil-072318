@@ -1,2 +1,3 @@
-class Amazontransaction
+class AmazonTransaction
+  
 end
