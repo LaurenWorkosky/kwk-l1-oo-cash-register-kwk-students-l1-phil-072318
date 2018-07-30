@@ -6,6 +6,6 @@ class AmazonTransaction
   end
   
   def total
-    return total = 0
+    return total
   end
 end
