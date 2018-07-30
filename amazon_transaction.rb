@@ -5,7 +5,7 @@ class AmazonTransaction
     @items = []
   end
   
-  def total
-    return total
+  def total = (0)
+    @total = 0
   end
 end
